@@ -1,0 +1,14 @@
+[16,21,11,8,12,22] -> Merge Sort
+
+1- Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+2- Big-O gösterimini yazınız.
+
+
+
+
+
+
+1- Listede ki elemanları bölerek ayırır elemanlar tek kalıncaya kadar ve elemanlar tek kaldığında kendi arasında sıralar ve siğer sortlara göre çok daha hızlıdır.
+
+2- Big-O gösterimi ise 0(n^2)
+ (n kare )
